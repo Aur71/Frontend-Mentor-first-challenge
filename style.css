@@ -73,6 +73,7 @@ h1 {
   color: var(--clr3);
   font-weight: 700;
   font-size: 32px;
+  padding-right: 20px;
 }
 
 .card-info p {
@@ -91,6 +92,7 @@ h1 {
   color: var(--clr1);
   font-family: var(--font2);
   font-size: 30px;
+  font-weight: bolder;
 }
 
 .card-price p:last-child {
@@ -136,6 +138,10 @@ a:active {
 
   .card-info {
     gap: 20px;
+  }
+
+  h1 {
+    padding-right: 0px;
   }
 }
 
