@@ -72,8 +72,8 @@ h1 {
   font-family: var(--font2);
   color: var(--clr3);
   font-weight: 700;
-  font-size: 32px;
-  padding-right: 20px;
+  font-size: 33px;
+  padding-right: 30px;
 }
 
 .card-info p {
@@ -101,7 +101,7 @@ h1 {
 
 .card a {
   width: 100%;
-  border-radius: 5px;
+  border-radius: 10px;
   height: 30px;
   background-color: var(--clr1);
   color: white;
